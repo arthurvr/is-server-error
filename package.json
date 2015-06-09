@@ -1,0 +1,36 @@
+{
+  "name": "is-server-error",
+  "version": "0.0.0",
+  "description": "Check if a number is a HTTP server error code",
+  "license": "MIT",
+  "repository": "arthurvr/is-server-error",
+  "author": {
+    "name": "Arthur Verschaeve",
+    "email": "contact@arthurverschaeve.be",
+    "url": "arthurverschaeve.be"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "http",
+    "status",
+    "code",
+    "error",
+    "server",
+    "is",
+    "check",
+    "detect",
+    "codes"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
