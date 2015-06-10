@@ -1,6 +1,6 @@
 # is-server-error [![Build Status](https://travis-ci.org/arthurvr/is-server-error.svg?branch=master)](https://travis-ci.org/arthurvr/is-server-error)
 
-> Check if a number is a HTTP server error code
+> Check if a number is [a HTTP server error code](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes#5xx_Server_Error)
 
 
 ## Install
