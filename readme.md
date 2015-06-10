@@ -28,6 +28,7 @@ isServerError(507);
 ## Related
 
 * [is-redirect](https://github.com/sindresorhus/is-redirect)
+* [is-success](https://github.com/arthurvr/is-success)
 
 
 ## License
