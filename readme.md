@@ -29,6 +29,7 @@ isServerError(507);
 
 * [is-redirect](https://github.com/sindresorhus/is-redirect)
 * [is-success](https://github.com/arthurvr/is-success)
+* [is-client-error](https://github.com/arthurvr/is-client-error)
 
 
 ## License
