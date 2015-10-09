@@ -25,6 +25,7 @@ isServerError(507);
 //=> true
 ```
 
+
 ## Related
 
 * [is-redirect](https://github.com/sindresorhus/is-redirect)
