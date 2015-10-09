@@ -13,7 +13,7 @@ $ npm install --save is-server-error
 ## Usage
 
 ```js
-var isServerError = require('is-server-error');
+const isServerError = require('is-server-error');
 
 isServerError(400);
 //=> false
